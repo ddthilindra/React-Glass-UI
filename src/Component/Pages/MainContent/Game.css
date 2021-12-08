@@ -14,16 +14,16 @@
 }
 
 .Percent{
-    background: #ee0979; /* fallback for old browsers */
+    background: #517fc1; /* fallback for old browsers */
     background: -webkit-linear-gradient(
       to right,
-      #ee093b,
-      #ee0979
+      #4bac8e,
+      #3b5f92
     ); /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(
       to right,
-      #ee093b,
-      #ee0979
+      #4bac8e,
+      #3b5f92
     ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;

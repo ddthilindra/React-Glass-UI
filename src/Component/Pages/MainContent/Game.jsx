@@ -42,7 +42,7 @@ const ProgressBAR = styled.progress`
   &::-webkit-progress-value {
     background: #ee0979;
     background: -webkit-linear-gradient(to right, #ff6a00, #ee0979);
-    background: linear-gradient(to right, #ff6a00, #ee0979);
+    background: linear-gradient(to right, #66dcd7, #517fc1);
     border-radius: 1rem;
   }
 `;

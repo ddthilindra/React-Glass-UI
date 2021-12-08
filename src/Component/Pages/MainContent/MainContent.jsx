@@ -64,7 +64,7 @@ const Input = styled.input`
   font-size: 0.9rem;
   color: #bd063d;
   &::placeholder {
-    color: #bd063d;
+    color: #3b5f92;
   }
   &:focus {
     outline: none;

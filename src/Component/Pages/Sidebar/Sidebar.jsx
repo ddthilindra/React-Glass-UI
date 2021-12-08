@@ -5,7 +5,6 @@ import Link from "../Link/Link";
 import { ImTwitch, ImBook } from "react-icons/im";
 import { FaSteam } from "react-icons/fa";
 import { IoLogoGameControllerB } from "react-icons/io";
-import Controller from "./controller.png";
 import styled from "styled-components";
 
 const Sidebar = () => {
@@ -14,8 +13,8 @@ const Sidebar = () => {
     <div className="SidebarContainer">
       <div className="ProfileContainer">
         <Avatar src={AvaterImage} />
-        <div className="Name">User Name</div>
-        <div className="Title">Title</div>
+        <div className="Name">Deshitha Thilindra</div>
+        <div className="Title">Software Engineer</div>
       </div>
       <div className="LinkContainder">
         <Link title="Strems">
